@@ -31,7 +31,19 @@ IPFS - Interplanetary File System
   
   
   
-  Data reuse readme templates
+Data reuse readme templates
   https://github.com/mozillascience/working-open-workshop/blob/gh-pages/handouts/data_reuse_plan_template.md
   https://cornell.app.box.com/v/ReadmeTemplate
   (Content also copied into this directory)
+
+
+Creative Commons has a licensing scheme.
+
+Machine reading of papers: why isn't there pre-masking of relevant text fields by human hands? "Please highlight the author field"
+
+Imagine a conference with every scientist present. That's what a preprint server effectively is.
+
+
+
+
+
