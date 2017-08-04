@@ -4,6 +4,11 @@
 * thingiverse
 * instructibles
 
+## Commercial resources
+* 3dcontentcentral.com
+* McMaster.com
+* traceparts.com
+
 ## Cool stuff
 * openPCR
 
